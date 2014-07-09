@@ -1,0 +1,11 @@
+{
+  "name": "launch",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.0",
+    "jquery": "~1.11.0",
+    "font-awesome": "~4.1.0",
+    "stickyNavbar.js": "~1.0.5"
+  },
+  "devDependencies": {}
+}
